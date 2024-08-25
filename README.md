@@ -31,11 +31,11 @@ my-node-server/
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/my-node-server.git
+    git clone https://github.com/rauandeveloper/ScanGuard.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd my-node-server
+    cd ScanGuard
     ```
 3. Install the required dependencies:
     ```bash
